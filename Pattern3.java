@@ -1,5 +1,12 @@
 package com.PatternAssignment11aug;
 
+OUTPUT
+5 4 3 2 1 
+5 4 3 2 1
+5 4 3 2 1 
+5 4 3 2 1
+5 4 3 2 1
+
 import java.util.Scanner;
 
 public class Pattern3 {
