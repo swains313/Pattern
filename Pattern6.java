@@ -1,5 +1,12 @@
 package com.PatternAssignment11aug;
 
+OUTPUT
+A 
+A B
+A B C
+A B C D
+A B C D E
+
 import java.util.Scanner;
 
 public class Pattern6 {
